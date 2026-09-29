@@ -51,5 +51,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/ja655-655/Suricata-IDS-Lab">Suricata IDS Lab</a>
+- <a href="https://github.com/ja655-655/Wireshark-Lab">Wireshark Lab</a>
 - <a href="https://github.com/ja655-655/NIST-Incident-Response-Lab-">NIST Incident Response Lab</a>
 - <a href="https://github.com/ja655-655/Brute-Force-Security-Incident-Report-"> Brute Force Incident Response Lab</a>
