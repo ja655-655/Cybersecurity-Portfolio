@@ -44,7 +44,23 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-OWASP-000000?&style=for-the-badge&logo=owasp&logoColor=white" />
 </div>
 
+### Operating Systems 
+<div>
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Red_Hat_Linux-EE0000?&style=for-the-badge&logo=redhat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CentOS-262577?&style=for-the-badge&logo=centos&logoColor=white" />
+</div>
 
+
+
+### Languages
+<div>
+    <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ruby-CC342D?&style=for-the-badge&logo=ruby&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
+</div>
 
 ## Certifications
 <div>
