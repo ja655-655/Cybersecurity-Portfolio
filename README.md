@@ -10,12 +10,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Suricata         | <a href="https://github.com/ja655-655/Suricata-IDS-Lab">Suricata IDS Lab</a>|
+| Suricata                                        | <a href="https://github.com/ja655-655/Suricata-IDS-Lab">Suricata IDS Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ja655-655/Wireshark-Lab">Wireshark Lab</a>|
-|          | SOC Automation Lab|
-| Incident Response Planning and Execution      | <a href="https://github.com/ja655-655/NIST-Incident-Response-Lab-">NIST Incident Response Lab</a>|
-| Brute force                  | <a href="https://github.com/ja655-655/Brute-Force-Security-Incident-Report-"> Brute Force Incident Response Lab</a>|
-| Internal Audit  | SOC Automation Lab|
+| Incident Response Planning and Execution        | <a href="https://github.com/ja655-655/NIST-Incident-Response-Lab-">NIST Incident Response Lab</a>|
+| Brute force                                     | <a href="https://github.com/ja655-655/Brute-Force-Security-Incident-Report-"> Brute Force Incident Response Lab</a>|
 
 ## Tools
 
@@ -24,21 +22,29 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Legion-000000?style=for-the-badge&logo=helmet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=wazuh&logoColor=white" />  
 </div>
+
+### Vulnerability Assessment & Management
+<div>
+    <img src="https://img.shields.io/badge/-Nessus-00C176?&style=for-the-badge&logo=tenable&logoColor=white" />
+</div>
+
+### Exploitation & Web Application Testing
+<div>
+    <img src="https://img.shields.io/badge/-Metasploit_Framework-2596CD?&style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?&style=for-the-badge&logo=burpsuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP-000000?&style=for-the-badge&logo=owasp&logoColor=white" />
+</div>
+
+
 
 ## Certifications
 <div>
