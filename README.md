@@ -11,9 +11,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Suricata                                        | <a href="https://github.com/ja655-655/Suricata-IDS-Lab">Suricata IDS Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ja655-655/Wireshark-Lab">Wireshark Lab</a>|
-| Incident Response Planning and Execution        | <a href="https://github.com/ja655-655/NIST-Incident-Response-Lab-">NIST Incident Response Lab</a>|
-| Brute force                                     | <a href="https://github.com/ja655-655/Brute-Force-Security-Incident-Report-"> Brute Force Incident Response Lab</a>|
+| Log and Packet Analysis                         | <a href="https://github.com/ja655-655/Wireshark-Lab">Wireshark Lab</a>|
+| Incident Response and Detection                 | <a href="https://github.com/ja655-655/NIST-Incident-Response-Lab-">NIST Incident Response Lab</a>|
+| Threat and Vulnerability Management             | <a href="https://github.com/ja655-655/Brute-Force-Security-Incident-Report-"> Brute Force Incident Response Lab</a>|
 
 ## Tools
 
